@@ -3,7 +3,7 @@
 
 Sobre mim:
 
-- 🔭 Cursando Ciência da Computação - 4° Período,
+- 🔭 Cursando Ciência da Computação - 5° Período,
 - 🧑 19 Anos,
 - 📫 e-mail: pauloandreribeirosaid@gmail.com
 
