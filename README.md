@@ -3,6 +3,8 @@ About Me:
 
 🔭 Studying Computer Science - 5th Semester,
 
+👨🏻‍💻 Developer at Luby Software, Fintech US,
+
 🧑 20 Years Old,
 
 📫 Email: pauloandreribeirosaid@gmail.com
