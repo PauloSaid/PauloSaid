@@ -1,7 +1,7 @@
 ### Hello, I'm Paulo. 👋
 About Me:
 
-🔭 Studying Computer Science - 5th Semester,
+🔭 Studying Computer Science - 6th Semester,
 
 👨🏻‍💻 Developer at Luby Software, Fintech US,
 
