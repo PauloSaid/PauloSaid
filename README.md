@@ -1,11 +1,11 @@
 ### Hello, I'm Paulo. 👋
 About Me:
 
-🔭 Studying Computer Science - 6th Semester,
+🔭 Studying Computer Science - 7th Semester,
 
 👨🏻‍💻 Developer at Luby Software, Fintech US,
 
-🧑 20 Years Old,
+🧑 21 Years Old,
 
 📫 Email: pauloandreribeirosaid@gmail.com
 
