@@ -1,9 +1,7 @@
 ### Hello, I'm Paulo. 👋
 About Me:
 
-🔭 Studying Computer Science - 7th Semester,
-
-👨🏻‍💻 Developer at Luby Software, Fintech US,
+🔭 Studying Computer Science - 8th Semester,
 
 🧑 21 Years Old,
 
