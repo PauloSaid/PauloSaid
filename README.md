@@ -1,9 +1,9 @@
 ### Hello, I'm Paulo. 👋
 About Me:
 
-🔭 Studying Computer Science - 8th Semester,
+🔭 Computer Science - Graduated,
 
-🧑 21 Years Old,
+🧑 22 Years Old,
 
 📫 Email: pauloandreribeirosaid@gmail.com
 
